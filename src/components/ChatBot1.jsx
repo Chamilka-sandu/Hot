@@ -40,9 +40,9 @@ function App4() {
     {
       id: '5',
       options: [
-        { value: 'react', label: 'Academic', trigger: () => handleTitleChange('Acedamic Facts') },
-        { value: 'chatbots', label: 'Exam', trigger: () => handleTitleChange('Exam Facts') },
-        { value: 'ai', label: ' Staff', trigger: () => handleTitleChange('Staff Facts') },
+        { value: 'react', label: 'Academic', trigger: () => handleTitleChange('Acedamic ') },
+        { value: 'chatbots', label: 'Exam', trigger: () => handleTitleChange('Exam ') },
+        { value: 'ai', label: ' Staff', trigger: () => handleTitleChange('Staff ') },
       ],
     },
   ];
