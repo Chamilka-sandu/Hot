@@ -42,7 +42,7 @@ function App4() {
       options: [
         { value: 'react', label: 'Academic', trigger: () => handleTitleChange('Acedamic ') },
         { value: 'chatbots', label: 'Exam', trigger: () => handleTitleChange('Exam ') },
-        { value: 'ai', label: ' Staff', trigger: () => handleTitleChange('Staff component') },
+        { value: 'ai', label: ' Staff', trigger: () => handleTitleChange('Staff ') },
       ],
     },
   ];
